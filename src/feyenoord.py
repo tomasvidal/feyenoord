@@ -142,7 +142,7 @@ def plot_pie_posiciones(diccionario):
     plt.show()
     
 
-
+# Esto es un cambio para borrar 
 
 
 
